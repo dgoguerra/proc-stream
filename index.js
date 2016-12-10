@@ -1,4 +1,4 @@
-var extend = require('lodash.assign'),
+var extend = require('extend'),
     split = require('split2'),
     through = require('through2'),
     merge = require('merge-stream');
